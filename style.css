@@ -54,7 +54,7 @@ body {
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
     animation: glow 5s infinite alternate;
     color: rgb(240, 232, 232);
-    font-size: 70px; /* Increased font size */
+    font-size: 26px; /* Increased font size */
     font-weight: bold; /* Added bold font weight */
 }
 
