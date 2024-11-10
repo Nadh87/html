@@ -48,8 +48,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 250px; /* Increased button size */
-    height: 250px;
+    width: 215px; /* Increased button size */
+    height: 215px;
     border-radius: 50%;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
     animation: glow 5s infinite alternate;
